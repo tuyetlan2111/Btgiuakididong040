@@ -1,0 +1,12 @@
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\MoneyDataAccess.dll.config
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\MoneyDataAccess.dll
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\MoneyDataAccess.pdb
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\obj\Debug\MoneyDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\obj\Debug\MoneyDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\obj\Debug\MoneyDataAccess.csproj.CopyComplete
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\obj\Debug\MoneyDataAccess.dll
+C:\Users\Lan\Desktop\WebAPIMoney\MoneyDataAccess\obj\Debug\MoneyDataAccess.pdb

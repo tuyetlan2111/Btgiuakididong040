@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MoneyLoverDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="money_logs">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="loai" Type="int" />
+    <Property Name="noi_dung" Type="nvarchar" MaxLength="50" />
+    <Property Name="so_tien" Type="int" />
+    <Property Name="ngay" Type="date" />
+  </EntityType>
+  <EntityContainer Name="MoneyLoverDbModelStoreContainer">
+    <EntitySet Name="money_logs" EntityType="Self.money_logs" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

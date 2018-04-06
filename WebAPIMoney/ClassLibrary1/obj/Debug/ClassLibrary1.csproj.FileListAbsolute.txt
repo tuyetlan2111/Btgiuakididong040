@@ -1,0 +1,5 @@
+C:\Users\Lan\Desktop\WebAPIMoney\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lan\Desktop\WebAPIMoney\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lan\Desktop\WebAPIMoney\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Lan\Desktop\WebAPIMoney\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Lan\Desktop\WebAPIMoney\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

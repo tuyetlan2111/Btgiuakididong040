@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MoneyLoverDbModelStoreContainer" CdmEntityContainer="MoneyLoverDbEntities">
+    <EntitySetMapping Name="money_logs">
+      <EntityTypeMapping TypeName="MoneyLoverDbModel.money_logs">
+        <MappingFragment StoreEntitySet="money_logs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="loai" ColumnName="loai" />
+          <ScalarProperty Name="noi_dung" ColumnName="noi_dung" />
+          <ScalarProperty Name="so_tien" ColumnName="so_tien" />
+          <ScalarProperty Name="ngay" ColumnName="ngay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
