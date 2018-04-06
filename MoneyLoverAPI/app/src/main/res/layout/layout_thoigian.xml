@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginTop="20dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:id="@+id/tvspinerloai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chọn loại"
+            android:textSize="18sp"/>
+        <Spinner
+            android:id="@+id/spinnerloai"
+            android:entries="@array/spinnerLoai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </Spinner>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="0dp">
+
+        <TextView
+            android:id="@+id/tvspinerdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chọn thời gian"
+            android:textSize="18sp"/>
+        <Spinner
+            android:id="@+id/spinnerdate"
+            android:entries="@array/spinnerDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </Spinner>
+
+    </LinearLayout>
+
+<ListView
+    android:id="@+id/lvspiner"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+</ListView>
+
+</LinearLayout>

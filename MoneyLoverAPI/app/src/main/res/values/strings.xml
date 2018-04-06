@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoneyLoverAPI</string>
+<string-array name="spinnerLoai">
+    <item>Thu</item>
+    <item>Chi</item>
+</string-array>
+    <string-array name="spinnerDate">
+        <item>Tuần</item>
+        <item>Tháng</item>
+        <item>Quý</item>
+        <item>Năm</item>
+    </string-array>
+</resources>
